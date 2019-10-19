@@ -11,7 +11,7 @@ Step 1: Clone the repo:
   $ git clone https://github.com/lfsando/FormulaCLI.git
 ```
 
-Step 2: Install formuacli using pipenv
+Step 2: Install formulacli using pipenv
 ```console
   $ pipenv install
 ```
